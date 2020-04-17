@@ -167,7 +167,7 @@ echo $white "http://techdirect.co.za"
 echo $cyan "http://thehellenic.co.za"
 echo $white "http://valdicare.co.za"
 echo
-echo $red "Piliu Target Yang Ingin Lu Ewe
+echo $red "Pilih Target Yang Ingin Lu Ewe
 echo $green "╭─"$blue"WING ON CYBER"$cyan" ~/MRBOYS"$white
 read -p " ╰─$ "  target
 echo
